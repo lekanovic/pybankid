@@ -26,7 +26,6 @@ To install PyBankID, install it from this GitHub repository via pip:
 .. code-block:: bash
 
     pip install git+https://github.com/hbldh/pybankid.git
-    pip install requests==2.5.3
 
 Usage
 -----
