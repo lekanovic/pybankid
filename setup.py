@@ -33,6 +33,7 @@ setup(
     install_requires=[
         'requests>=2.2.1',
         'suds>=0.4',
+        'requests==2.5.3',
     ],
     dependency_links=[],
     ext_modules=[],
